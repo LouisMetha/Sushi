@@ -1,0 +1,30 @@
+.footer {
+    width: 100%;
+    padding: 20px 40px;
+    background: var(--color-white);
+
+    flex-wrap: wrap;
+    gap: 20px;
+    overflow: hidden;
+}
+
+
+.foote__logo {
+    font-size: 24px;
+    font-family: var(--playfair-display);
+    font-weight: bold;
+
+    text-transform:  uppercase;
+    color: var(--secondary-color);
+    cursor: pointer;
+}
+
+.footer__logo span {
+    color: var(--primary-color);
+}
+
+.footer ul {
+    list-style: none;
+    display: flex;
+    
+}

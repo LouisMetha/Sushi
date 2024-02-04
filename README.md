@@ -5,13 +5,13 @@ A Mobile-Responsive Website Project - SUSHI Project
 This project was created as a part of the learning process for mastering the basics of HTML and CSS. The primary focus was on implementing a mobile-responsive website, incorporating various techniques and best practices in web development.
 
 **Technologies Used**
-HTML
-CSS
-CSS Variables
-Flexbox
-Position Properties
-BEM Naming Methodology
-@media Queries
+HTML,
+CSS,
+CSS Variables,
+Flexbox,
+Position Properties,
+BEM Naming Methodology,
+@media Queries,
 AOS (Animate On Scroll) for Smooth Animations
 
 **Project Features**

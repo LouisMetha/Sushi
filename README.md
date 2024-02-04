@@ -1,5 +1,5 @@
 **Project Title**
-A Mobile-Responsive Website Project - SUSHI Project
+A landing page for Mobile-Responsive Website Project - SUSHI Project
 https://louismetha.github.io/SushiProject/
 
 **Overview**

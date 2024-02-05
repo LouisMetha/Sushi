@@ -1,5 +1,8 @@
 **Project Title**
-A Landing page for Mobile-Responsive Website Project - SUSHI Project
+
+A landing page for Mobile-Responsive Website Project - SUSHI Project
+https://louismetha.github.io/SushiProject/
+
 
 **Overview**
 This project was created as a part of the learning process for mastering the basics of HTML and CSS. The primary focus was on implementing a mobile-responsive website, incorporating various techniques and best practices in web development.
